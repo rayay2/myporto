@@ -99,19 +99,3 @@ h2 {
 footer .container {
     animation-delay: 1.5s;
 }
-
-a {
-    color: #667eea;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    background: #333;
-    color: white;
-    text-align: center;
-    padding: 20px;
-}
